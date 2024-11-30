@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ignotec.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ignotec.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ignotec.com/collections/smart-wearable-devices.atom"/>
+  <title>IgnoTec</title>
+  <updated>2024-09-10T22:33:19-04:00</updated>
+  <author>
+    <name>IgnoTec</name>
+  </author>
+  <entry>
+    <id>https://ignotec.com/products/9479782072618</id>
+    <published>2024-09-10T22:33:19-04:00</published>
+    <updated>2024-09-10T22:33:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/fitness-smartwatch"/>
+    <title>Fitness Smartwatch</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/2084712854570.jpg?v=1726022002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            111.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><article><header><h2>Fitness Smartwatch</h2></header><div>
+<p>Introducing the <strong>Fitness Smartwatch</strong>, your ultimate fitness companion. Track your daily workouts and monitor your progress with this sophisticated and exclusive smartwatch. Stay motivated and achieve your fitness goals with ease. Elevate your fitness game with this luxurious device.</p>
+<ul>
+<li>Model: T68 T68</li>
+<li>Applicable platforms: fully compatible, Android, Symbian, BlackBerry, windows mobile, apple IOS</li>
+<li>Screen size: 1.5 inches</li>
+<li>Material: TPU + PC</li>
+<li>Battery capacity: 250mah</li>
+<li>Wireless distance: 10m and above</li>
+<li>Wrist strap material: TPU</li>
+</ul>
+<p>The fastest shipping time is 1-3 days. Package includes: Bracelet, instruction manual, and charger.</p>
+</div></article></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479782072618</id>
+      <title>Black</title>
+      <s:price currency="USD">111.49</s:price>
+      <s:sku>CJXFZNZN01267-Black</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479754645802</id>
+    <published>2024-09-10T21:57:57-04:00</published>
+    <updated>2024-09-10T21:57:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/smart-bluetooth-call-offline-payment-watch"/>
+    <title>Smart Bluetooth Call Offline Payment Watch</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/1615434977505.jpg?v=1726019879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            189.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This luxurious Smart Bluetooth Call Offline Payment Watch allows you to stay connected and make payments on-the-go. With advanced Bluetooth technology, you can easily make calls and payments right from your wrist. The epitome of sophistication and convenience, this watch is a must-have for the modern, tech-savvy individual.</p>
+<p><strong> Product information: </strong></p>
+<p>Screen size: 1.28 inches <br>Interface: USB 2.0 <br>Fuselage memory: RAM 32MB + ROM 32MB <br>Wearing method: Wristband <br>Compatible system: IOS platform <br>Menu language: Multilingual</p>
+<p>Color: White / Pink / Black / Brow</p>
+<p> </p>
+<p><strong> <br></strong></p>
+<p><strong> Size information: </strong></p>
+<p><span style="font-size: 1em;">Size: adjustable</span></p>
+<p><img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17191008/2406230849510320000.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17191008/2406230849510328700.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17191008/2406230849520320700.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17191008/2406230849520322500.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17191008/2406230849520324800.jpg"> <span style="font-size: 1em;"> <br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479754645802</id>
+      <title>Black</title>
+      <s:price currency="USD">189.01</s:price>
+      <s:sku>CJZN103812002BY</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479754645802</id>
+      <title>Brown</title>
+      <s:price currency="USD">189.01</s:price>
+      <s:sku>CJZN103812004DW</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479754645802</id>
+      <title>Pink</title>
+      <s:price currency="USD">189.01</s:price>
+      <s:sku>CJZN103812003CX</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479754645802</id>
+      <title>White</title>
+      <s:price currency="USD">189.01</s:price>
+      <s:sku>CJZN103812001AZ</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479752646954</id>
+    <published>2024-09-10T21:57:24-04:00</published>
+    <updated>2024-09-10T21:57:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/fashion-womens-smart-watch-waterproof-wearable-device-heart-rate-monitor-sports-smartwatch-for-women-ladies"/>
+    <title>Fashion Women&apos;s Smart Watch Waterproof Wearable Device Heart Rate Monitor Sports Smartwatch for Women Ladies</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/4121365747619.jpg?v=1726019847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            222.26 - 224.63
+            <a href="https://ignotec.com/products/fashion-womens-smart-watch-waterproof-wearable-device-heart-rate-monitor-sports-smartwatch-for-women-ladies">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Fashion Women's Smart Watch is the perfect combination of style and functionality. With its waterproof design and heart rate monitor, it is a great choice for active women. Stay connected and track your fitness goals with this sleek and practical wearable device.</p>
+<p><strong>Overview:</strong> <br>1.1.08-inch high-definition LCD color screen with anti-fall tempered glass round exquisite dial <br>2. Lightweight body, slim strap, light fit, fashion element watch, a smart reminder for women's physiological cycle, tailored for women <br>3. IP67 waterproof, inner core sealed, daily hand washing, rain and worry <br><br><strong>Specifications:</strong> <br>Camera: 1.3 million pixels <br>The fuselage memory <br>Flash memory capacity (ROM+RAM) 64KB <br>The screen material: IPS <br>Wearing away: Wrist strap type <br>Compatible with the system: Fully compatible with <br>Communication function: Does not support <br>Additional features: Health monitoring <br>Wireless distance: 10 m or more <br>Battery capacity: 120mAh <br>Mode of operation: Touch-type + touch button type <br>Product size: 38mm*38mm*12mm <br>Screen resolution: 240 * 210 <br>Wrist strap material: Stainless steel, Product Name: Physiological Cycle-Smart Bracelet <br>Additional features: Health monitoring <br><br><strong>Package Content:</strong> <br>1 x bracelet</p>
+<p> </p>
+<p><img style="max-width: 100%;" src="https://cf.cjdropshipping.com/1621574422264.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/1621574422267.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/1621574422263.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/1621574422265.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/1621574422262.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479752646954</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">222.26</s:price>
+      <s:sku>CJXFZNZN00422-Rose Gold</s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479752646954</id>
+      <title>Rose Gold with Bracelet</title>
+      <s:price currency="USD">224.63</s:price>
+      <s:sku>CJXFZNZN00422-Rose Gold with Bracelet</s:sku>
+      <s:grams>183</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479752646954</id>
+      <title>Silvery</title>
+      <s:price currency="USD">222.26</s:price>
+      <s:sku>CJXFZNZN00422-Silvery</s:sku>
+      <s:grams>177</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479752646954</id>
+      <title>Silvery with Bracelet</title>
+      <s:price currency="USD">224.63</s:price>
+      <s:sku>CJXFZNZN00422-Silvery with Bracelet</s:sku>
+      <s:grams>183</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479752646954</id>
+      <title>Violet</title>
+      <s:price currency="USD">222.26</s:price>
+      <s:sku>CJXFZNZN00422-Violet</s:sku>
+      <s:grams>173</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479752646954</id>
+      <title>Violet with Bracelet</title>
+      <s:price currency="USD">224.63</s:price>
+      <s:sku>CJXFZNZN00422-Violet with Bracelet</s:sku>
+      <s:grams>183</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479749992746</id>
+    <published>2024-09-10T21:52:50-04:00</published>
+    <updated>2024-09-10T21:52:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/24-hours-bluetooth-anti-snoring-device-charge-snore-earset-sleeping-aid-snoring-analyzes-sleep-datas-good-sleep"/>
+    <title>24 Hours Bluetooth Anti-snoring Device Charge Snore Earset Sleeping Aid Snoring Analyzes Sleep Datas Good Sleep</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/ca5fcdac-7531-4a60-9fb2-91350ce7e815.jpg?v=1726019573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            231.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get a good night's sleep with our premium 24 Hours Bluetooth Anti-snoring Device. Effortlessly charge while you sleep and wake up feeling rested and refreshed. Our device analyzes your sleep data to help reduce snoring and promotes better sleep. Say goodbye to sleepless nights and hello to a good night's rest.</p>
+<p>This product is prohibited from being sold on Amazon <br><strong>How does it work?</strong></p>
+<p>The device collects bone conduction data and recognizes snoring through built-in model matching. When the intensity of the snoring sound meets the requirements and is regular, the device can dynamically increase the snoring sound model through machine learning in about 30 seconds.</p>
+<p>When the snoring sound is recognized as snoring by the device, the device will vibrate and the vibration level will be adaptive. If the intervention of the current vibration level is unsuccessful, the vibration will increase step by step, reaching the highest level of snoring intensity set by the user. If the intervention is successful, the vibration level will be maintained; if there is no snoring for a long time, the vibration level will be reduced.</p>
+<p><br><img style="max-width: 100%;" contenteditable="false" src="https://cf.cjdropshipping.com/7de7e2df-57f8-4bd1-ab76-c302eec0c035.jpg"> <br><br></p>
+<h3>Free Sleeplus APP</h3>
+<p>Snore stopper</p>
+<p>After syncing your device data with the app, you can view your sleep data, snore data, and intervention data, and you can customize the intensity of vibration and snore sensitivity of the snore stopper.</p>
+<p><strong>Sleeping</strong></p>
+<p>The sleep aid function provides soothing music to help relax your mind and body and promote better sleep.</p>
+<p><strong>Recorder</strong></p>
+<p>With the recording function, you can record your snoring and play it back at any time to compare the effects of using the snore stopper.</p>
+<p><br><img style="max-width: 100%;" contenteditable="false" src="https://cf.cjdropshipping.com/dbfa2580-73f1-4d71-bf21-06cb62c5a14c.jpg" width="50%"> <br><br><br><img style="max-width: 100%;" contenteditable="false" src="https://cf.cjdropshipping.com/2d933cf1-8c18-4bc8-8f3e-7e8b7bb4faff.jpg"> <img style="max-width: 100%;" contenteditable="false" src="https://cf.cjdropshipping.com/f5f73b78-28fd-4364-ba91-99741fb55706.jpg"> <img style="max-width: 100%;" contenteditable="false" src="https://cf.cjdropshipping.com/85c25705-14e9-4ab5-8e5d-f8fde584ab34.jpg"> <img style="max-width: 100%;" contenteditable="false" src="https://cf.cjdropshipping.com/da2cf885-fbc2-4f27-a39f-aeea93a6a064.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479749992746</id>
+      <title>YA1323</title>
+      <s:price currency="USD">231.55</s:price>
+      <s:sku>CJKC1724840-YA1323</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479743406378</id>
+    <published>2024-09-10T21:42:17-04:00</published>
+    <updated>2024-09-10T21:42:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/new-k9-smart-watch-1-39-round-screen-encoder-true-screw-clip-wireless-charging-nfc-offline-and-payment-function"/>
+    <title>New K9 Smart Watch 1.39 Round Screen Encoder True Screw Clip Wireless Charging NFC Offline And Payment Function</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/c8e843f7-b44f-4845-9b4f-962f5b0ea6bc.jpg?v=1726018940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            135.60 - 140.82
+            <a href="https://ignotec.com/products/new-k9-smart-watch-1-39-round-screen-encoder-true-screw-clip-wireless-charging-nfc-offline-and-payment-function">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Effortlessly stay connected and stylish with our New K9 Smart Watch. The 1.39" round screen and true screw clip add a touch of modern sophistication. With wireless charging, NFC, and offline and payment functions, you'll never miss a beat. Elevate your daily routine with this exclusive timepiece.</p>
+<p><strong>Features:</strong></p>
+<p>1. Alipay, NFC, custom dial switch (support APP push), four UI interface switches, phone book, Bluetooth dial call; <br>2. Health monitoring (heart rate, blood oxygen, blood pressure, sleep), data (step count, distance, calories); <br>3. Multiple sports modes (walking, cycling, running, football, volleyball, tennis, breathing training, basketball, etc.; APP supports 100+switching); <br>4. Reminders (information, sedentary, drinking water, alarm clock), weather, WeChat sports, music control, women's health, breathing training, remote photography; <br>5. Stopwatch, search phone bracelet, intelligent language assistant Siri, wrist up and screen up, frequently used contacts, split screen (sidebar), flashlight, calendar, shortcut bar (control center); <strong> <br></strong></p>
+<p><strong> <br></strong></p>
+<p><strong>Product information :</strong></p>
+<p>Material: Zinc alloy +IML+ silicone strap <br>Bluetooth chip: Rui Yu RTL8763EWE <br>Bluetooth version: 5.2 <br>Screen size: 1.39 inches, resolution: 360*360, touch mode: full screen touch <br>Battery capacity: 300Amh, charging interface: wireless charging, talk time: 6H <br>Working duration: 5-7 days (days, charging duration: 2H, standby duration: more than 15 days <br>Storage: 128Mb <br>Compatible systems: Apple 10.0&amp; Android 5.0 <br>APP: Topu /FitcloudPro APP <br>Watch built-in 14 languages: Simplified Chinese, English, Russian, Spanish, German, Italian, French, Portuguese, Turkish, Hebrew, Arabic, Vietnamese, traditional Chinese, Thai; <br><br>Function introduction: <br>Alipay, NFC, custom dial switch (support APP push), four UI interface switch, phone book, Bluetooth dial call; <br>Health monitoring (heart rate, oxygen, blood pressure, sleep), data (measuring steps, distance, calories); <br>A variety of exercise modes (brisk walking, cycling, running, football, volleyball, tennis, breathing training, basketball, etc.) APP supports 100+ toggle); <br>Reminders (messages, sedentary, drinking water, alarm clock), weather, wechat exercise, music control, women's health, breathing training, remote photography, <br>Stopwatch, search mobile phone bracelet, intelligent language assistant Siri, wrist lifting screen, commonly used contacts, split screen (sidebar), flashlight, calendar, shortcut bar (control center); <br>Business card (making friends), calculator, key with encoder; App notification alerts: SMS, call, wechat, QQ, Facebook, Twitter, Line, Whatsapp, Instagram</p>
+<p>　 <br><br><strong> Size Information: <br></strong> Table diameter: 44mm and above <br><br><strong> Packing list: <br></strong> Watch *1/charging cable *1/ instruction manual *1/ packing box *1</p>
+<p><img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300326300.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300326700.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300327100.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300327600.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300327800.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300328200.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300328500.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300328700.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300329100.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300329500.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836300329800.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836310320200.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836310320600.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836310321000.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836310321200.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836310321500.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836310321800.jpg"> <img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17108064/2403190836310322100.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743406378</id>
+      <title>Black</title>
+      <s:price currency="USD">140.82</s:price>
+      <s:sku>CJZN172188701AZ</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743406378</id>
+      <title>Orange</title>
+      <s:price currency="USD">140.82</s:price>
+      <s:sku>CJZN172188702BY</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743406378</id>
+      <title>Silver brown skin</title>
+      <s:price currency="USD">135.60</s:price>
+      <s:sku>CJZN172188704DW</s:sku>
+      <s:grams>192</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743406378</id>
+      <title>Yellow</title>
+      <s:price currency="USD">140.82</s:price>
+      <s:sku>CJZN172188703CX</s:sku>
+      <s:grams>202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479743144234</id>
+    <published>2024-09-10T21:41:42-04:00</published>
+    <updated>2024-09-10T21:41:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/chivo-kw10pro-womens-smart-watch"/>
+    <title>Chivo kw10pro women&apos;s smart Watch</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/2320567008006.jpg?v=1726018905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            15.09 - 215.00
+            <a href="https://ignotec.com/products/chivo-kw10pro-womens-smart-watch">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the luxury of the Chivo kw10pro women's smart Watch. Elevate your style with this sophisticated and exclusive timepiece. Stay connected and on-trend with its smart features. Experience the perfect blend of art and technology.</p>
+<p>Strap material: fine steel <br>Dial thickness: less than 3mm <br>Color classification: steel, silver and steel <br>Dial diameter: 20.5mm</p>
+<p><img src="https://cf.cjdropshipping.com/5b4701e4-5dd8-4f28-904b-d5f190fe1b67.jpg" style="max-width: 100%;"> <img src="https://cf.cjdropshipping.com/86c0f7b5-73e7-4352-b856-812e50ee148d.jpg" style="font-size: 14px; max-width: 100%;"> <img src="https://cf.cjdropshipping.com/1b201b03-5f90-438d-b99c-e80442cad1a9.jpg" style="font-size: 14px; max-width: 100%;"> <img src="https://cf.cjdropshipping.com/fcd768fc-1351-4bad-85e8-d10a3100cb44.jpg" style="font-size: 14px; max-width: 100%;"> <img src="https://cf.cjdropshipping.com/01bc239d-bfae-45bc-baec-458ca7ac3bf4.jpg" style="font-size: 14px; max-width: 100%;"> <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743144234</id>
+      <title>GOLD</title>
+      <s:price currency="USD">204.12</s:price>
+      <s:sku>CJXFZNZN01125-GOLD</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743144234</id>
+      <title>Gold Watch band</title>
+      <s:price currency="USD">25.09</s:price>
+      <s:sku>CJXFZNZN01125-Gold Watch band</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743144234</id>
+      <title>Gold set</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>CJXFZNZN01125-Gold set</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743144234</id>
+      <title>Silver</title>
+      <s:price currency="USD">203.94</s:price>
+      <s:sku>CJXFZNZN01125-Silver</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743144234</id>
+      <title>Silver Watch band</title>
+      <s:price currency="USD">25.09</s:price>
+      <s:sku>CJXFZNZN01125-Silver Watch band</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743144234</id>
+      <title>Silver set</title>
+      <s:price currency="USD">215.00</s:price>
+      <s:sku>CJXFZNZN01125-Silver set</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743144234</id>
+      <title>Usb cable</title>
+      <s:price currency="USD">15.09</s:price>
+      <s:sku>CJXFZNZN01125-Usb cable</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479743013162</id>
+    <published>2024-09-10T21:41:13-04:00</published>
+    <updated>2024-09-10T21:41:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/compatible-with-smart-bracelet-heart-rate-and-blood-pressure-exercise-meter-step-information-push-smart-reminder-color-bracelet"/>
+    <title>Compatible With , Smart Bracelet Heart Rate And Blood Pressure Exercise Meter Step Information Push Smart Reminder Color Bracelet</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/2149183455145.jpg?v=1726018876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            37.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your fitness journey with our Compatible With Smart Bracelet. Track your heart rate, blood pressure, and steps to achieve your exercise goals. Get real-time notifications and stay on track with the smart reminder feature. Available in a luxurious color design, it's the perfect companion for a sophisticated and healthy lifestyle.</p>
+<p><strong>Note：</strong> <br>Non-Apple branded products,Compatible with iPhone models <br><br></p>
+<div id="gt-src-c">
+<div id="gt-src-p">
+<div id="gt-src-wrap">
+<p><strong>Overview: </strong> <br>Accurately track your steps, distance traveled, calories burned, activity time all day. <br>Many kinds of training modes available for you to better track your other activities. <br>Automatically track how long and how well you sleep, and set a silent, vibrating alarm</p>
+<p> </p>
+<p><strong>Specifications:</strong> <br>Model: M3 <br>Applicable platforms: Blackberry platform, WindowsMobile platform, Symbian platform, android platform, Apple iOS platform, fully compatible Compatible platforms Blackberry, MIUI, Symbian, WindowsMobile, iOS, ANDROID, Alibaba Cloud OS, Baidu Cloud OS <br>Screen size: 0.96 inches <br>Appearance size: 24 * 2 * 1CM <br>Material: IPS <br>Battery capacity: 105mAh <br>Wearing method: wrist strap <br>Operation: Touch <br>Interface: USB 2.0 <br>Wireless distance: 5m (inclusive) -10m (inclusive) <br>Wristband Material: Silicone</p>
+<p> </p>
+<p><strong>Package Content:</strong> <br>1 x bracelet <br>1 x data cable <br>1 x manual</p>
+<p><img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17183232/2406140944240326800.jpg"></p>
+<p><img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17183232/2406140944240329500.jpg">    <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17183232/2406140944250321000.jpg"></p>
+<p><img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17183232/2406140944250324800.jpg"></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743013162</id>
+      <title>Black</title>
+      <s:price currency="USD">37.23</s:price>
+      <s:sku>CJXFZNZN00188-Black</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743013162</id>
+      <title>Blue</title>
+      <s:price currency="USD">37.23</s:price>
+      <s:sku>CJXFZNZN00188-Blue</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743013162</id>
+      <title>Dark blue</title>
+      <s:price currency="USD">37.23</s:price>
+      <s:sku>CJXFZNZN00188-Dark blue</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479743013162</id>
+      <title>Gules</title>
+      <s:price currency="USD">37.23</s:price>
+      <s:sku>CJXFZNZN00188-Gules</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479741178154</id>
+    <published>2024-09-10T21:34:16-04:00</published>
+    <updated>2024-09-10T21:34:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/y90-smart-watch-gps-blood-pressure-monitoring-health-smart-watch-sports-smart-watch"/>
+    <title>Y90 Smart Watch GPS Blood Pressure Monitoring Health Smart Watch Sports Smart Watch</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/67aaa855-4c98-496a-901f-ee08b7c4a9cb.jpg?v=1726018459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            151.58 - 158.00
+            <a href="https://ignotec.com/products/y90-smart-watch-gps-blood-pressure-monitoring-health-smart-watch-sports-smart-watch">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<h2>Y90 Smart Watch GPS Blood Pressure Monitoring Health Smart Watch Sports Smart Watch</h2>
+<p>Elevate your health and fitness routine with the <strong>Y90 Smart Watch</strong>. Featuring GPS tracking, blood pressure monitoring, and advanced health features, it's the ultimate sports watch for the modern athlete. Stay connected and stylish with this premium device.</p>
+<ul>
+<li>Screen size: 1.32 inches</li>
+<li>Body memory: 256KB+1MB</li>
+<li>Interface: USB 2.0</li>
+<li>Screen material: IPS</li>
+<li>Wearing method: wrist strap</li>
+<li>Compatible system: fully compatible</li>
+<li>Communication function: not supported</li>
+<li>Wireless distance: 5m (inclusive) -10m (inclusive)</li>
+<li>Battery capacity: 280MA</li>
+<li>Operation mode: touch + button</li>
+<li>Product size: 46*260MM</li>
+<li>Screen resolution: 360*360</li>
+<li>Wristband material: silicone rubber steel</li>
+<li>Color: Multiple options</li>
+<li>Life time: 7 days or less</li>
+<li>Waterproof level: not waterproof</li>
+<li>Screen type: TFT screen</li>
+<li>Communication type: no card</li>
+</ul>
+<p>Stay active and healthy with Y90 Smart Watch. Features GPS tracking, blood pressure monitoring, and advanced health functions for the ultimate fitness experience.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>A</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku>CJZN119154101AZ</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>B</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku>CJZN119154102BY</s:sku>
+      <s:grams>171</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>C</title>
+      <s:price currency="USD">158.00</s:price>
+      <s:sku>CJZN119154103CX</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>D</title>
+      <s:price currency="USD">155.86</s:price>
+      <s:sku>CJZN119154104DW</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>E</title>
+      <s:price currency="USD">155.86</s:price>
+      <s:sku>CJZN119154105EV</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>F</title>
+      <s:price currency="USD">155.86</s:price>
+      <s:sku>CJZN119154106FU</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>G</title>
+      <s:price currency="USD">155.86</s:price>
+      <s:sku>CJZN119154107GT</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>H</title>
+      <s:price currency="USD">151.58</s:price>
+      <s:sku>CJZN119154108HS</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>I</title>
+      <s:price currency="USD">151.58</s:price>
+      <s:sku>CJZN119154109IR</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479741178154</id>
+      <title>J</title>
+      <s:price currency="USD">151.58</s:price>
+      <s:sku>CJZN119154110JQ</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479740752170</id>
+    <published>2024-09-10T21:33:11-04:00</published>
+    <updated>2024-09-10T21:33:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/compatible-with-apple-b57-color-screen-smart-sports-watch"/>
+    <title>Compatible with Apple , B57 color screen smart sports watch</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/1427479649944.jpg?v=1726018393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            96.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Stay connected and track your fitness with the Compatible with Apple B57 color screen smart sports watch. Enjoy the convenience of compatibility with Apple devices, while the vibrant color screen and smart features help you stay on top of your fitness goals. A must-have for any active lifestyle.</p>
+<p><strong>Note：</strong> <br>Non-Apple branded products,Compatible with iPhone models <br><br></p>
+<p>Screen size: 1.3 inches <br>Interface: USB 2.0 <br>Body memory: 4MB <br>Screen material: ips <br>Wearing method: wrist strap <br>Additional features: health monitoring, information push, smart reminder, monitoring, step counting, audio and video entertainment <br>Wireless distance: 5m and below <br>Battery capacity: 130mAh <br>Product size: 48.9mm*34.5mm*11.7mm <br>Screen resolution: 240*240 <br>Strap size: M / L (suitable for 150-200 mm wrist circumference) <br>Function: step</p>
+<p>eminder function: Call, SMS, QQ, WeChat reminder (display content and name). Facebook, Whatsapp, Twitter, Skype, and other foreign social software reminders. <br>Alarm clock (three sets of alarm clocks), sedentary reminder. <br>Smart anti-lost: Find the bracelet. (no disconnect reminder) <br>Motion track: Android support <br>APP Health Measurements: Heart rate, blood oxygen, blood pressure, measurement. Heart rate monitoring throughout the day (displayed in bars, highest, lowest heart rate) <br>Other functions: Do not disturb mode, raise hand to bright screen, time format setting, restore factory, long press to reject incoming calls, three clock interface selection, music control (support previous, next, play/pause), weather display Apple is healthy. <br>APP support language: Ukrainian, Russian, German, Italian, Japanese, French, Simplified Chinese, Traditional Chinese, English, Portuguese, Spanish, Arabic, Korean</p>
+<p><img style="max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580324400.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580325000.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580325800.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580326300.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580326700.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580327200.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580327700.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580328100.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580328500.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580328900.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580329300.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944580329800.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944590320500.jpg"> <img style="font-size: 14px; max-width: 100%;" src="https://cf.cjdropshipping.com/17058816/2401220944590321000.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479740752170</id>
+      <title>Black</title>
+      <s:price currency="USD">96.25</s:price>
+      <s:sku>CJXFZNZN00256-Black</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479740752170</id>
+      <title>Pink</title>
+      <s:price currency="USD">96.25</s:price>
+      <s:sku>CJXFZNZN00256-Pink</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479740752170</id>
+      <title>White</title>
+      <s:price currency="USD">96.25</s:price>
+      <s:sku>CJXFZNZN00256-White</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479737901354</id>
+    <published>2024-09-10T21:29:56-04:00</published>
+    <updated>2024-09-10T21:29:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/d18-bluetooth-smart-watch-men-women-blood-pressure-heart-rate-monitor-smart-watch-pedometer-sport-tracker-smart-band-for-android-ios"/>
+    <title>D18 Bluetooth Smart Watch, Men Women Blood Pressure Heart Rate Monitor Smart Watch, Pedometer Sport Tracker Smart Band For Android IOS</title>
+    <s:type>Smart Wearable Devices</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/39914aca-d2d4-4a04-9ba6-0568658b61ef.jpg?v=1726018198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Smart Wearable Devices<br>
+        <strong>Price: </strong>
+            88.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unleash the power of technology with our D18 Bluetooth Smart Watch. Monitor your blood pressure and heart rate while staying active with the pedometer and sport tracking features. Compatible with Android and iOS, this sleek and stylish watch is perfect for both men and women. Stay on top of your health and fitness journey in ultimate luxury.</p>
+<h1>About this item</h1>
+<ul>
+<li>【Powerful Functions】-Track your activities throughout the day: steps, calories, sleep monitoring, blood pressure, mileage and heart rate, and smart reminder: call reminder, SMS button.</li>
+<li>【Compatible System】- Bluetooth 4.0, compatible with Android 5.0 and above systems, iOS 9.0 and above systems.</li>
+<li>【APP supports languages】- English, German, Italian, Japanese, French, Chinese, Korean, Russian, Spanish, Korean, Russian, Spanish.</li>
+<li>【Long Battery Life】- Charging time 3 hours. The watch can be used for 2-3 days after charging for two hours. It can be kept for 7-10 days standby time.</li>
+<li>【Screen Type】-1.3 inch, TFT 240*240.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479737901354</id>
+      <title>Green</title>
+      <s:price currency="USD">88.06</s:price>
+      <s:sku>CJZN1691298-Green</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479737901354</id>
+      <title>Purple</title>
+      <s:price currency="USD">88.06</s:price>
+      <s:sku>CJZN1691298-Purple</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+</feed>

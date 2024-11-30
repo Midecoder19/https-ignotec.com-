@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ignotec.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ignotec.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ignotec.com/collections/drones.atom"/>
+  <title>IgnoTec</title>
+  <updated>2024-09-11T16:22:11-04:00</updated>
+  <author>
+    <name>IgnoTec</name>
+  </author>
+  <entry>
+    <id>https://ignotec.com/products/9481764995370</id>
+    <published>2024-09-11T16:22:11-04:00</published>
+    <updated>2024-09-11T16:22:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/4k-dual-camera-remote-control-three-sided-obstacle-avoidance-drone"/>
+    <title>4K Dual Camera Remote Control Three-sided Obstacle Avoidance Drone</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/6b827e92-b5ef-41d2-a58a-8f017862dbd3.jpg?v=1728909010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            37.38 - 51.71
+            <a href="https://ignotec.com/products/4k-dual-camera-remote-control-three-sided-obstacle-avoidance-drone">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>
+  Product Information：
+  <br>
+ </b>
+</p>
+<p>
+ Size Folded: 13x7x5.5cm / Unfolded: 25x25x5.5cm
+ <br>
+ Flight system: intelligent hovering flight/three-sided intelligent obstacle avoidance
+ <br>
+ Flight function: 4K dual camera switching, mobile phone control, intelligent hovering, high-definition image transmission, MV production,
+ <br>
+ High-brightness LED light, gravity sensor, 50x zoom, beauty shooting, track finger swipe, one-key take-off/landing/return, headless mode, 360° roll, speed switch
+ <br>
+ Lens parameters: 4K front lens (90° manual adjustment) + bottom HD lens
+ <br>
+ Use battery Body battery: modular lithium battery
+ <br>
+ Remote control battery: AA battery*3 (sold separately)
+ <br>
+ Battery life: about 18-20 minutes
+ <br>
+ Flight distance: about 100 meters
+</p>
+<p>
+ <b>
+  <font color="#c24f4a">Note: The Standard single battery model does not come with a camera. If you need a camera, please order the 4K model.</font>
+ </b>
+</p>
+<p>
+ <b>Packing List：</b>
+ <br>
+</p>
+<p>
+ 1* 
+ <span style="font-size: 1em;">drone+1* </span>
+ <span style="font-size: 1em;">Battery</span>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/17212608/2407180604160329800.jpg" style="max-width:100%;">
+ <img src="https://cf.cjdropshipping.com/17212608/2407180604170320600.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17212608/2407180604170321200.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17212608/2407180604170322000.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17212608/2407180604170322600.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17212608/2407180604170323500.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17212608/2407180604170324200.jpg" style="max-width: 100%;">
+ <span style="font-size: 1em;">
+  <br>
+ </span>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Black regular / 4K dual WIFI single battery</title>
+      <s:price currency="USD">45.59</s:price>
+      <s:sku>CJWR146721012LO</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Black regular / 4K single WIFI single battery</title>
+      <s:price currency="USD">43.94</s:price>
+      <s:sku>CJWR146721011KP</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Black regular / Standard single battery</title>
+      <s:price currency="USD">37.38</s:price>
+      <s:sku>CJWR146721010JQ</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Grey regular / 4K dual WIFI single battery</title>
+      <s:price currency="USD">45.59</s:price>
+      <s:sku>CJWR146721015OL</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Grey regular / 4K single WIFI single battery</title>
+      <s:price currency="USD">43.94</s:price>
+      <s:sku>CJWR146721014NM</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Grey regular / Standard single battery</title>
+      <s:price currency="USD">37.38</s:price>
+      <s:sku>CJWR146721013MN</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance black / 4K dual WIFI single battery</title>
+      <s:price currency="USD">50.51</s:price>
+      <s:sku>CJWR146721006FU</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance black / 4K single WIFI single battery</title>
+      <s:price currency="USD">48.88</s:price>
+      <s:sku>CJWR146721005EV</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance black / Standard single battery</title>
+      <s:price currency="USD">39.01</s:price>
+      <s:sku>CJWR146721004DW</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance grey / 4K dual WIFI single battery</title>
+      <s:price currency="USD">51.71</s:price>
+      <s:sku>CJWR146721003CX</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance grey / 4K single WIFI single battery</title>
+      <s:price currency="USD">48.88</s:price>
+      <s:sku>CJWR146721002BY</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance grey / Standard single battery</title>
+      <s:price currency="USD">39.01</s:price>
+      <s:sku>CJWR146721001AZ</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance orange / 4K dual WIFI single battery</title>
+      <s:price currency="USD">50.51</s:price>
+      <s:sku>CJWR146721009IR</s:sku>
+      <s:grams>332</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance orange / 4K single WIFI single battery</title>
+      <s:price currency="USD">48.88</s:price>
+      <s:sku>CJWR146721008HS</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Obstacle avoidance orange / Standard single battery</title>
+      <s:price currency="USD">39.01</s:price>
+      <s:sku>CJWR146721007GT</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Orange regular / 4K dual WIFI single battery</title>
+      <s:price currency="USD">45.59</s:price>
+      <s:sku>CJWR146721018RI</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Orange regular / 4K single WIFI single battery</title>
+      <s:price currency="USD">43.94</s:price>
+      <s:sku>CJWR146721017QJ</s:sku>
+      <s:grams>395</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481764995370</id>
+      <title>Orange regular / Standard single battery</title>
+      <s:price currency="USD">37.38</s:price>
+      <s:sku>CJWR146721016PK</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481754050858</id>
+    <published>2024-09-11T16:03:55-04:00</published>
+    <updated>2024-09-11T16:03:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/folding-four-axis-4k-high-definition-aerial-drone-remote-control-aircraft"/>
+    <title>Folding Four-axis 4K High-definition Aerial Drone Remote Control Aircraft</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/95c91578-0a3b-457a-a60e-c8449e910370.jpg?v=1728909066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            208.68 - 270.38
+            <a href="https://ignotec.com/products/folding-four-axis-4k-high-definition-aerial-drone-remote-control-aircraft">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>
+  Product information:
+  <br>
+ </b>
+ Remote control frequency: 2.4G
+ <br>
+ Image transmission distance: 800 meters
+ <br>
+ Remote control distance: 1000 meters
+ <br>
+ Body battery: 7.4V 2200MAH
+ <br>
+ Life time: 28 minutes
+ <br>
+ Charging time: 4.5 hours
+ <br>
+ <span style="font-size: 1em;">Note: the price is more than 50$, not responsible for any after-sales, mind not to shoot)</span>
+</p>
+<p>
+ <br>
+</p>
+<p>
+ <b>Product Features:</b>
+ <br>
+ 4K HD ESC camera, GPS positioning, real-time image transmission, smart follow, custom route, gesture photo/video, one-key take-off, one-key landing, one-key return, low-power return, speed adjustment, LED night light, mobile phone Control, MV production
+</p>
+<p>
+ <b>
+  <br>
+ </b>
+</p>
+<p>
+ <b>Size Information:</b>
+ <br>
+ Folding: 13*8.3*5.7cm
+ <br>
+ Expand: 25*30.2*5.7cm
+ <br>
+ Storage bag: 29*21*9cm
+</p>
+<p>
+ <br>
+</p>
+<p>
+ <b>Packing list:</b>
+ <br>
+ Drone*1
+ <br>
+ USB charging cable*1
+ <br>
+ Spare screws*4
+ <br>
+ Remote control*1
+ <br>
+ Screwdriver*1
+ <br>
+ Manual *1
+ <br>
+ Body battery*1
+ <br>
+ Spare blade*4
+ <br>
+ Storage bag*1
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/8f512e26-6c5a-4dcb-9dee-543f02c20eb3.jpg" style="max-width:100%;">
+ <img src="https://cf.cjdropshipping.com/a328f24a-2d28-474d-acdf-ab95aaf19ea9.jpg" style="max-width: 100%;">
+ <br>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/75fba76a-df66-4a17-bbf1-fa68279a13e3.jpg" style="max-width:100%;">
+ <img src="https://cf.cjdropshipping.com/35ef76cf-f72f-4d2c-b495-dd47d1ff3afd.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/aed20db3-7e32-420e-8358-71b848c6d30c.jpg" style="max-width: 100%;">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481754050858</id>
+      <title>SG108 / Double electric version</title>
+      <s:price currency="USD">270.38</s:price>
+      <s:sku>CJWR136178902BY</s:sku>
+      <s:grams>963</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481754050858</id>
+      <title>SG108 / Single version</title>
+      <s:price currency="USD">208.68</s:price>
+      <s:sku>CJWR136178901AZ</s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481753690410</id>
+    <published>2024-09-11T16:03:35-04:00</published>
+    <updated>2024-09-11T16:03:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/t-rex-rc-helicopter-drone-with-camera-hd-1080p-wifi-fpv-selfie-drone-professional-foldable-quadcopter-20-minutes-battery-life"/>
+    <title>T-Rex RC Helicopter Drone with Camera HD 1080P WIFI FPV Selfie Drone Professional Foldable Quadcopter 20 Minutes Battery Life</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/1812826311831.jpg?v=1726085019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            58.25 - 82.47
+            <a href="https://ignotec.com/products/t-rex-rc-helicopter-drone-with-camera-hd-1080p-wifi-fpv-selfie-drone-professional-foldable-quadcopter-20-minutes-battery-life">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+ <br>
+</div>
+<div>
+ Product Size:24 x 24 x 5CM(Excluding Protection Shelf)
+</div>
+<div>
+ Age: 14+
+</div>
+<div>
+ Remote Control Distance: about 100 meters
+</div>
+<div>
+ Playing Time: about 15 minutes
+</div>
+<div>
+ Drone Battery:3.7V1800mAh
+</div>
+<div>
+ Charging Time: about 120 minutes
+</div>
+<div>
+ Remote Control Battery:3*AA battery(not included)
+</div>
+<div>
+ Material: ABS Plastic, Electronic components
+</div>
+<div>
+  
+</div>
+<div>
+ Features:
+</div>
+<div>
+ 1.0.3 MP camera /1080P camera, WIFI real time transmission,Altitude hold enable you to take stunt clear aerial pictures/videos with a ease. 
+</div>
+<div>
+ 2.Long flight time, about 15 minutes, longer than most of quadcopters.
+</div>
+<div>
+ 2.Foldable arm, easy to carry on and storage.
+</div>
+<div>
+ <span data-spm-anchor-id="a2g0z.10010108.1000023.i1.7191102eqe4uXa">3.Speed Switched.High/ Medium/ Low speed for choices.</span>
+</div>
+<div>
+ 4.Headless Mode+one-key return, simplify your control.
+</div>
+<div>
+ 5.LED Lights
+</div>
+<div>
+ 6.Forward/Backward, Ascend/Descend,Turn left/right, Left/right Side Flight, Fine tuning, etc.
+</div>
+<div>
+  
+</div>
+<div>
+ Package Included:
+</div>
+<div>
+ Drone*1
+</div>
+<div>
+ Remote Control*1 
+</div>
+<div>
+ Spare Propellers*4
+</div>
+<div>
+ USB Charger*1
+</div>
+<div>
+ Protection Frame*4
+</div>
+<div>
+ Drop-proof Floor Stand*2
+</div>
+<div data-spm-anchor-id="a2g0z.10010108.1000023.i0.7191102eqe4uXa">
+ User Manual*1
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481753690410</id>
+      <title>Black / 30W pixels</title>
+      <s:price currency="USD">80.33</s:price>
+      <s:sku>CJXFXJWR00021-Black-30W pixels</s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481753690410</id>
+      <title>Black / 500W pixels</title>
+      <s:price currency="USD">80.43</s:price>
+      <s:sku>CJXFXJWR00021-Black-500W pixels</s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481753690410</id>
+      <title>Black / Without Camera</title>
+      <s:price currency="USD">58.25</s:price>
+      <s:sku>CJXFXJWR00021-Black-Without Camera</s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481753690410</id>
+      <title>White / 30W pixels</title>
+      <s:price currency="USD">80.33</s:price>
+      <s:sku>CJXFXJWR00021-White-30W pixels</s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481753690410</id>
+      <title>White / 500W pixels</title>
+      <s:price currency="USD">82.47</s:price>
+      <s:sku>CJXFXJWR00021-White-500W pixels</s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481753690410</id>
+      <title>White / Without Camera</title>
+      <s:price currency="USD">58.25</s:price>
+      <s:sku>CJXFXJWR00021-White-Without Camera</s:sku>
+      <s:grams>460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481753329962</id>
+    <published>2024-09-11T16:02:51-04:00</published>
+    <updated>2024-09-11T16:02:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/rc-drone-car-quadcopter-drone-s123-remote-control-aircraft-radio-control-ufo-hand-control-altitude-hold-helicopter-toys-for-kids"/>
+    <title>RC Drone Car Quadcopter Drone S123 Remote Control Aircraft Radio Control UFO Hand Control Altitude Hold Helicopter Toys For Kids</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/1914733224768.jpg?v=1728909079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            45.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ O
+ <b>verview:</b>
+ <br>
+ - Altitude Hold Mode. By setting the air pressure outside,the quadcopter can hover in the air stably.
+ <br>
+ - 10 Mins Max Flight Time.The High-capacity 3.7V 500mAh intelligent battery yields up to 10mins flight time.
+ <br>
+ - With Bright LEDs help you track the drone at night, make the drone an awesome flyer, and sturdy build-in protective guards contribute to safe crashes.
+ <br>
+ - 2.4GHz Technology Adopted for Anti-Interference.
+ <br>
+ - 6-axis gyro which can have more stable flying and be easy to control.
+ <br>
+ - With One key to landing function makes it easily lands on the ground.
+ <br>
+ - With Headless Mode, no need to adjust the position of the aircraft before flying.
+ <br>
+ - The quadcopter fuselage is made of high-strength and resistant engineering plastics, lightweight and durable resistance.
+ <br>
+ <br>
+ <b>Specifications:</b>
+ <br>
+ Packaging window box
+ <br>
+ Product size 9 * 9 * 2.9CM
+ <br>
+ Color box size 22 * 14 * 5CM
+ <br>
+ Product Battery Lithium Battery 3.7V 180MAH
+ <br>
+ Remote control distance about 30 meters
+ <br>
+ Charging time: about 30 minutes
+ <br>
+ Control time about 5 minutes
+ <br>
+ Frequency 2.4G
+ <br>
+ <br>
+ <b>Package Content:</b>
+ <br>
+ Aircraft*1 Body battery*1 Remote control*1 USB charger*1 Manual*1
+</p>
+<p>
+ <br>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/20200302/311217263003.jpg" width="100%">
+ <br>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/20200302/2718305276498.jpg" width="100%">
+   
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481753329962</id>
+      <title>default</title>
+      <s:price currency="USD">45.31</s:price>
+      <s:sku>CJXFXJWR00003-default</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481749856554</id>
+    <published>2024-09-11T15:58:16-04:00</published>
+    <updated>2024-09-11T15:58:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/gps-drone-hd-4k-four-axis-drone"/>
+    <title>Gps drone HD 4K four axis drone</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/1556389501209.jpg?v=1728909096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            49.46 - 112.66
+            <a href="https://ignotec.com/products/gps-drone-hd-4k-four-axis-drone">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ Product name: Drone
+ <br>
+ Remote control distance: about 300-500 meters
+ <br>
+ Product color: black and gray
+ <br>
+ Product size: 7.2x33.2x6.4cm
+ <br>
+ Product material: ABS + electronic components
+ <br>
+ Body battery: 7.4V1450mAh
+ <br>
+ Suitable age: 14+
+ <br>
+ Remote control battery: 4x1.5V "AAA"
+ <br>
+ Flight time: about 18-20 minutes
+ <br>
+ Control method: handle remote control/mobile APP control
+</p>
+<p>A: 1080P + optical flow dual camera + 1 battery (simple packaging in color box)</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/0b120176-5ef6-474b-8f7d-63e10904520b.jpg" style="max-width:100%;">
+ <img src="https://cf.cjdropshipping.com/4aa87e75-329c-4236-8e8a-15a1197d0269.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/7bac9188-5120-48d3-8ddc-20e92505cae5.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/ce3a1765-7059-45d0-b3bc-60b89ef8dc53.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/da507a74-56e8-45e3-835d-540c308c0027.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/77ca3f67-939e-4a05-83fa-ec80e62d13bb.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/eec23b14-7e8a-4fc0-aa40-72caba67245c.jpg" style="font-size: 14px; max-width: 100%;">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481749856554</id>
+      <title>A</title>
+      <s:price currency="USD">112.66</s:price>
+      <s:sku>CJXFXJWR00097-A</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481749856554</id>
+      <title>Battery</title>
+      <s:price currency="USD">49.46</s:price>
+      <s:sku>CJXFXJWR00097-Battery</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481700770090</id>
+    <published>2024-09-11T15:30:15-04:00</published>
+    <updated>2024-09-11T15:30:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/otrc-fy602-air-road-rc-drone-car-2-in-1-flying-car-2-4g-rc-quadcopter-drone-6-axis-4ch-helicopter-with-hd-camera-high-speed-4wd"/>
+    <title>OTRC FY602 Air-Road RC Drone Car 2 in 1 Flying Car 2.4G RC Quadcopter Drone 6-Axis 4CH Helicopter With HD Camera High Speed 4WD</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/875509637916.jpg?v=1728909123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            75.12 - 158.98
+            <a href="https://ignotec.com/products/otrc-fy602-air-road-rc-drone-car-2-in-1-flying-car-2-4g-rc-quadcopter-drone-6-axis-4ch-helicopter-with-hd-camera-high-speed-4wd">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ Charging time: about 100 minutes
+ <br>
+ Endurance time: about 10 minutes in flight mode / about 15 minutes in land mode
+ <br>
+ Remote control distance: about 100 meters
+</p>
+<p>Caution!!! </p>
+<p>1. Because of battery power consumption after long-distance transportation, please fully charged before playing in order to thoroughly enjoy the drone. </p>
+<p>2. Please read the user manual carefully before operating.please install them correctly before operating. </p>
+<p>3. There are several SKUs (options) under a drone (for example: with camera &amp; without camera), different SKUs got different prices. Please read carefully before placing an order. </p>
+<p>
+ <img alt="1" src="https://cf.cjdropshipping.com/17064864/2401290801570324800.jpg">
+ <img alt="8" src="https://cf.cjdropshipping.com/17064864/2401290801570325300.jpg">
+ <img alt="2" src="https://cf.cjdropshipping.com/17064864/2401290801570325900.jpg">
+ <img alt="3" src="https://cf.cjdropshipping.com/17064864/2401290801570326300.jpg">
+ <img alt="4" src="https://cf.cjdropshipping.com/17064864/2401290801570326800.jpg">
+ <img alt="5" src="https://cf.cjdropshipping.com/17064864/2401290801570327300.jpg">
+ <img alt="6" src="https://cf.cjdropshipping.com/17064864/2401290801570327500.jpg">
+ <img alt="7" src="https://cf.cjdropshipping.com/17064864/2401290801570328400.jpg">
+ <img alt="9" src="https://cf.cjdropshipping.com/17064864/2401290801570328900.jpg">
+ <img alt="10" src="https://cf.cjdropshipping.com/17064864/2401290801570329400.jpg">
+ <img alt="11" src="https://cf.cjdropshipping.com/17064864/2401290801570329900.jpg">
+ <img alt="12" src="https://cf.cjdropshipping.com/17064864/2401290801580320700.jpg">
+ <img alt="13" src="https://cf.cjdropshipping.com/17064864/2401290801580321200.jpg">
+ <img alt="14" src="https://cf.cjdropshipping.com/17064864/2401290801580321700.jpg">
+ <img alt="15" src="https://cf.cjdropshipping.com/17064864/2401290801580322400.jpg">
+ <img alt="16" src="https://cf.cjdropshipping.com/17064864/2401290801580322900.jpg">
+ <img alt="17" src="https://cf.cjdropshipping.com/17064864/2401290801580323400.jpg">
+ <img alt="18" src="https://cf.cjdropshipping.com/17064864/2401290801580323800.jpg">
+ <img alt="19" src="https://cf.cjdropshipping.com/17064864/2401290801580324200.jpg">
+ <img alt="20" src="https://cf.cjdropshipping.com/17064864/2401290801580324500.jpg">
+ <img alt="21" src="https://cf.cjdropshipping.com/17064864/2401290801580325900.jpg">
+ <img alt="22" src="https://cf.cjdropshipping.com/17064864/2401290801580326500.jpg">
+ <img alt="23" src="https://cf.cjdropshipping.com/17064864/2401290801580326900.jpg">
+   
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481700770090</id>
+      <title>Black blue</title>
+      <s:price currency="USD">133.96</s:price>
+      <s:sku>CJXFXJWR00018-Black blue</s:sku>
+      <s:grams>782</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481700770090</id>
+      <title>Camera</title>
+      <s:price currency="USD">158.98</s:price>
+      <s:sku>CJXFXJWR00018-Camera</s:sku>
+      <s:grams>774</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481700770090</id>
+      <title>Standard</title>
+      <s:price currency="USD">75.12</s:price>
+      <s:sku>CJXFXJWR00018-Standard</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481696739626</id>
+    <published>2024-09-11T15:28:03-04:00</published>
+    <updated>2024-09-11T15:28:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/aerial-drone"/>
+    <title>Aerial Drone</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/418042579092.jpg?v=1726082893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            11.23 - 68.87
+            <a href="https://ignotec.com/products/aerial-drone">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LS Mini WiFi FPV with 0.3MP/5.0/4KMP HD Camera Altitude Hold Mode Foldable RC Drone Quadcopter RTF</p>
+<p>
+ Description:
+ <br>
+ Item NO.: LS-MIN
+ <br>
+ Material: ABS plastic and electronic components
+ <br>
+ Color: Black/Grey white
+ <br>
+ Version: ,with 0.3MP-480P Camera, with 1080P-5.0MP Camera，with 4K Camera/ (Optional)
+ <br>
+ Gyro: 6-axis
+ <br>
+ Frequency: 2.4G
+ <br>
+ Channel: 4CH
+ <br>
+ Motor: 716 Brushed Coreless Motor
+ <br>
+ Battery: 3.7V 650MAH Lipo Battery (Included)
+ <br>
+ Transmitter Power: 3 x AAA Battery (Not Included)
+ <br>
+ Transmitter Mode: Mode 2 (Left Hand Throttle)
+ <br>
+ Flight Time: about 11-13mins
+ <br>
+ Charging Time: 40 minutes
+ <br>
+ RC Distance: 50-80m
+ <br>
+ FPV Distance: 30-50m
+ <br>
+ FPV: WiFi
+ <br>
+ Resolution: 30W-480P, 500W-1080P,4K
+ <br>
+ Camera Angle: Fixed at 25°
+ <br>
+ Quadcopter Size: 10*5*12.5*3CM (Unfolded)
+ <br>
+ 8*6.5*3 CM(Folded)
+</p>
+<p>
+ Features:
+ <br>
+ - Foldable arms, small size, easy to carry.
+ <br>
+ - With altitude hold mode function, flight is stable.
+ <br>
+ - In headless mode, there is no need to adjust the position of the aircraft before flying.
+ <br>
+ - Easily find your way home using the one-button back function.
+</p>
+<p>
+ - Built-in 30W pixel / 500W pixel /4K pixelHD camera. Surprisingly, it can capture stunning pictures and videos from the sky.
+ <br>
+ - With WiFi function, it can be connected to applications, APK system, and take photos, videos, and real-time transmission through mobile phone camera images.
+ <br>
+ - Draw a flight path on the screen, the drone will fly autonomously along the specified path.
+ <br>
+ - 2.4GHz anti-interference technology.
+ <br>
+ - 4 channels for ascent, descent, forward, backward, left flight, right flight and 360 Ì» roll.
+ <br>
+ - Six-axis gyroscope, smoother flight and more convenient control.
+ <br>
+ - LED lights make flying more spectacular, especially in the dark.
+</p>
+<p>Functions: up / down, forward / back, left / right turn, side flight, LED light, headless mode, one-button auto return, altitude hold mode, WiFi FPV</p>
+<p>
+ Package Included:
+ <br>
+ 1 x Drone
+ <br>
+ 1 x Remote Control
+ <br>
+ 1 x 3.7V 650MAH Battery
+ <br>
+ 1 x USB Charging Cable
+ <br>
+ 4 x Spare Blade
+ <br>
+ 4 x Protection Cover
+ <br>
+ 1 x Manual
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/cb284c9e-f1c9-403d-85cf-fcfa2ecdbbc5.jpg" style="max-width:100%;">
+ <img src="https://cf.cjdropshipping.com/e3356c92-14ba-44db-a1e1-847c358f05c6.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/7a2cbf26-49fb-4be7-8623-48900dc2391e.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/82d34fc1-f2e9-4eab-b373-4dad1e303844.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/af25d625-ab3c-49ac-aba1-618e65e1dcba.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/bbe73679-0fdd-4c1b-a90b-8a10aa09777a.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/766c5c23-b6fd-4ea1-93f0-80b05c1a8051.jpg" style="font-size: 14px; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/b080a01a-b91d-44c0-95de-dac955f096b3.jpg" style="font-size: 14px; max-width: 100%;">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black 01 / Battery / Battery</title>
+      <s:price currency="USD">11.23</s:price>
+      <s:sku>CJXFXJWR00059-Black 01-Battery-Battery</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Color box / 1080P</title>
+      <s:price currency="USD">54.91</s:price>
+      <s:sku>CJXFXJWR00059-Black-Color box-1080P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Color box / 480P</title>
+      <s:price currency="USD">52.01</s:price>
+      <s:sku>CJXFXJWR00059-Black-Color box-480P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Color box / 4K</title>
+      <s:price currency="USD">56.96</s:price>
+      <s:sku>CJXFXJWR00059-Black-Color box-4K</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Color box / Standard</title>
+      <s:price currency="USD">41.06</s:price>
+      <s:sku>CJXFXJWR00059-Black-Color box-Standard</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Storage bag / 1080P</title>
+      <s:price currency="USD">56.96</s:price>
+      <s:sku>CJXFXJWR00059-Black-Storage bag-1080P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Storage bag / 480P</title>
+      <s:price currency="USD">54.08</s:price>
+      <s:sku>CJXFXJWR00059-Black-Storage bag-480P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Storage bag / 4K</title>
+      <s:price currency="USD">59.03</s:price>
+      <s:sku>CJXFXJWR00059-Black-Storage bag-4K</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Black / Storage bag / 4K 3B</title>
+      <s:price currency="USD">68.87</s:price>
+      <s:sku>CJXFXJWR00059-Black-Storage bag-4K 3B</s:sku>
+      <s:grams>266</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Gray01 / Battery / Battery</title>
+      <s:price currency="USD">13.10</s:price>
+      <s:sku>CJXFXJWR00059-Gray01-Battery-Battery</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Grey / Color box / 1080P</title>
+      <s:price currency="USD">58.08</s:price>
+      <s:sku>CJXFXJWR00059-Grey-Color box-1080P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Grey / Color box / 480P</title>
+      <s:price currency="USD">52.01</s:price>
+      <s:sku>CJXFXJWR00059-Grey-Color box-480P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Grey / Color box / 4K</title>
+      <s:price currency="USD">56.96</s:price>
+      <s:sku>CJXFXJWR00059-Grey-Color box-4K</s:sku>
+      <s:grams>265</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Grey / Color box / Standard</title>
+      <s:price currency="USD">63.98</s:price>
+      <s:sku>CJXFXJWR00059-Grey-Color box-Standard</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Grey / Storage bag / 1080P</title>
+      <s:price currency="USD">56.96</s:price>
+      <s:sku>CJXFXJWR00059-Grey-Storage bag-1080P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Grey / Storage bag / 480P</title>
+      <s:price currency="USD">54.08</s:price>
+      <s:sku>CJXFXJWR00059-Grey-Storage bag-480P</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481696739626</id>
+      <title>Grey / Storage bag / 4K</title>
+      <s:price currency="USD">59.03</s:price>
+      <s:sku>CJXFXJWR00059-Grey-Storage bag-4K</s:sku>
+      <s:grams>287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481695920426</id>
+    <published>2024-09-11T15:27:42-04:00</published>
+    <updated>2024-09-11T15:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/mini-folding-drone"/>
+    <title>Mini folding drone</title>
+    <s:type>Portable Audio &amp; Video</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/22337467506069.jpg?v=1726082864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Portable Audio &amp; Video<br>
+        <strong>Price: </strong>
+            44.61 - 89.11
+            <a href="https://ignotec.com/products/mini-folding-drone">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ Product type: Mini model
+ <br>
+     Open: 9.5 * 9.5 * 3CM
+ <br>
+  Fold: 5 * 5 * 3CM
+ <br>
+ <br>
+ The complete set includes quadcopter * 1 remote control transmitter * 1 battery * 1 fan blade * 4 USB charging cable * 1 manual * 1
+ <br>
+  Mobile phone stand * 1 (not equipped with standard version)
+ <br>
+ <br>
+ Product parameters:
+ <br>
+ Product description Folding aircraft High-definition aerial photography Air pressure fixed height UAV Charging method USB cable charging
+ <br>
+ Reception frequency 2.4G, single battery flight time about 10 minutes
+ <br>
+ Appearance Folding aircraft Remote control battery 2 * AAA (sold separately)
+ <br>
+ Product material Plastic Metal Electronic components Remote control distance 50-80 meters
+ <br>
+ Number of channels 4 channels-6 axis gyroscope Remote control mode Left hand throttle
+ <br>
+ Use age 14+ fast and slow gears fast-medium-slow
+ <br>
+ Body battery 3.7V700MAH
+ <br>
+ Charging time 90 minutes
+ <br>
+ Features :
+ <br>
+ Forward and backward, turn left, turn left, fly left, fly right, one-click roll, 360-degree pattern roll compass without head mode, one-key return home, easily recall mobile phone WiFi control, mobile phone screen real-time transmission fixed altitude mode, flight / hover stability, stable landing Foldable body, small size, convenient to carry self-timer function, innovative new aerial photography mode
+</p>
+<p>
+ <img alt="迷你折叠_01" src="https://cf.cjdropshipping.com/17140896/2404260707570324200.jpg">
+ <img alt="迷你折叠_02" src="https://cf.cjdropshipping.com/17140896/2404260707570324800.jpg">
+ <img alt="迷你折叠_03" src="https://cf.cjdropshipping.com/17140896/2404260707580323100.jpg">
+ <img alt="迷你折叠_04" src="https://cf.cjdropshipping.com/17140896/2404260707580323700.jpg">
+ <img alt="迷你折叠_05" src="https://cf.cjdropshipping.com/17140896/2404260707580324600.jpg">
+ <img alt="迷你折叠_06" src="https://cf.cjdropshipping.com/17140896/2404260707580326500.jpg">
+ <img alt="迷你折叠_07" src="https://cf.cjdropshipping.com/17140896/2404260707580327000.jpg">
+ <img alt="迷你折叠_08" src="https://cf.cjdropshipping.com/17140896/2404260707580327900.jpg">
+ <img alt="迷你折叠_09" src="https://cf.cjdropshipping.com/17140896/2404260707580328600.jpg">
+ <img alt="迷你折叠_10" src="https://cf.cjdropshipping.com/17140896/2404260707590321000.jpg">
+ <img alt="迷你折叠_11" src="https://cf.cjdropshipping.com/17140896/2404260707590321700.jpg">
+ <img alt="迷你折叠_12" src="https://cf.cjdropshipping.com/17140896/2404260707590322300.jpg">
+ <img alt="迷你折叠_13" src="https://cf.cjdropshipping.com/17140896/2404260707590323100.jpg">
+  
+ <img alt="迷你折叠_15" src="https://cf.cjdropshipping.com/17140896/2404260707590323800.jpg" style="font-size: 14px;">
+ <img alt="迷你折叠_16" src="https://cf.cjdropshipping.com/17140896/2404260707590324300.jpg" style="font-size: 14px;">
+ <img alt="迷你折叠_17" src="https://cf.cjdropshipping.com/17140896/2404260707590325100.jpg" style="font-size: 14px;">
+ <img alt="迷你折叠_18" src="https://cf.cjdropshipping.com/17140896/2404260707590325800.jpg" style="font-size: 14px;">
+ <img alt="迷你折叠_19" src="https://cf.cjdropshipping.com/17140896/2404260707590326400.jpg" style="font-size: 14px;">
+ <img alt="迷你折叠_21" src="https://cf.cjdropshipping.com/17140896/2404260707590326900.jpg" style="font-size: 14px;">
+  
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481695920426</id>
+      <title>4K</title>
+      <s:price currency="USD">89.11</s:price>
+      <s:sku>CJXFXJWR00053-4K</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481695920426</id>
+      <title>720P</title>
+      <s:price currency="USD">52.68</s:price>
+      <s:sku>CJXFXJWR00053-720P</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481695920426</id>
+      <title>Standard</title>
+      <s:price currency="USD">44.61</s:price>
+      <s:sku>CJXFXJWR00053-Standard</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481684320554</id>
+    <published>2024-09-11T15:23:53-04:00</published>
+    <updated>2024-09-11T15:23:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/folding-remote-control-drone-4k-dual-camera"/>
+    <title>Folding Remote Control Drone  4K Dual Camera</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/2086883293043.jpg?v=1726082636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            39.15 - 52.95
+            <a href="https://ignotec.com/products/folding-remote-control-drone-4k-dual-camera">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ <b>
+  Overview:
+  <br>
+ </b>
+ Original replacement propeller for DJI Mavic Air 2 drone.
+ <br>
+ Each blade has undergone a precise dynamic balance test, resulting in lower flying noise, higher aerodynamic efficiency, lower power consumption, and stronger endurance.
+ <br>
+ Quieter and longer flight time.
+ <br>
+ The original hardness is high, and the elastic deformation is small.
+</p>
+<p>
+ <br>
+</p>
+<p>
+ <span style="font-weight: bold;">Product information:</span>
+ <br>
+ Product name: S62 quadcopter air pressure fixed height folding
+ <br>
+ Color: cool black milk white gray
+ <br>
+ Basic functions: fixed height function, foldable aircraft, six pass with gyroscope; one key to take off and one key to land, 360 degrees
+ <br>
+ Roll, rise and fall, forward and backward, fly left and right, turn, headless mode (with camera
+ <br>
+ Additional functions: gesture photo, video, music, voice operation, emergency stop, trajectory flight, heavy
+ <br>
+ Force sensing)
+ <br>
+ Operation mode: remote control/APP control
+ <br>
+ Charging method: Universal USB interface.
+ <br>
+ Battery capacity: 3.7V 1000mAH modular battery (sufficient/with export battery certificate/A product)
+ <br>
+ Flight time: about 10 minutes
+ <br>
+ Charging time: 30-40 minutes
+ <br>
+ Remote control distance|: about 150 meters
+ <br>
+ Lens: Built-in camera
+ <br>
+ Speed adjustment: slow/medium/fast
+ <br>
+ Packing: tote bag
+ <br>
+ Body size: 27*22.5*5 (expanded size) 12*7.5*5 (folded size)
+ <br>
+ Gross weight: 358g (a set)
+ <span style="font-weight: bold;"></span>
+ <span style="font-size: 14px;"></span>
+</p>
+<p>
+ <b>
+  <font color="#c24f4a">Note: This product is no camera model, if you need a camera, check CJYZ1169001</font>
+ </b>
+</p>
+<p>
+ <b>
+  Package Content：
+  <br>
+ </b>
+</p>
+<p>as the picture shows</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/17070048/2402040826470327400.jpg" style="max-width:100%;">
+ <br>
+</p>
+<p>
+ <span style="font-size: 1em;">
+  <br>
+ </span>
+</p>
+<p>
+ <img src="https://cf.cjdropshipping.com/17070048/2402040826470327800.jpg" style="font-size: 1em; max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17070048/2402040826470328200.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17070048/2402040826470328700.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17070048/2402040826470329300.jpg" style="max-width: 100%;">
+ <img src="https://cf.cjdropshipping.com/17070048/2402040826480320000.jpg" style="max-width: 100%;">
+ <br>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481684320554</id>
+      <title>Black / Double power</title>
+      <s:price currency="USD">46.05</s:price>
+      <s:sku>CJXFXJWR00128-Black-Double power</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481684320554</id>
+      <title>Black / One power</title>
+      <s:price currency="USD">39.15</s:price>
+      <s:sku>CJXFXJWR00128-Black-One power</s:sku>
+      <s:grams>333</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481684320554</id>
+      <title>Black / Sanden</title>
+      <s:price currency="USD">52.95</s:price>
+      <s:sku>CJXFXJWR00128-Black-Sanden</s:sku>
+      <s:grams>377</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481684320554</id>
+      <title>Grey / Double power</title>
+      <s:price currency="USD">46.05</s:price>
+      <s:sku>CJXFXJWR00128-Grey-Double power</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481684320554</id>
+      <title>Grey / One power</title>
+      <s:price currency="USD">39.15</s:price>
+      <s:sku>CJXFXJWR00128-Grey-One power</s:sku>
+      <s:grams>328</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481684320554</id>
+      <title>Grey / Sanden</title>
+      <s:price currency="USD">52.95</s:price>
+      <s:sku>CJXFXJWR00128-Grey-Sanden</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9481666330922</id>
+    <published>2024-09-11T15:18:56-04:00</published>
+    <updated>2024-09-11T15:18:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/xs809s-foldable-selfie-drone-with-wide-angle-2mp-hd-camera-wifi-fpv-xs809hw-upgraded-rc-quadcopter-helicopter"/>
+    <title>XS809S Foldable Selfie Drone with Wide Angle 2MP HD Camera WiFi FPV XS809HW Upgraded RC Quadcopter Helicopter</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/47492871026.jpg?v=1726082339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            99.46 - 115.21
+            <a href="https://ignotec.com/products/xs809s-foldable-selfie-drone-with-wide-angle-2mp-hd-camera-wifi-fpv-xs809hw-upgraded-rc-quadcopter-helicopter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Size of aircraft: 44*44*6.5CM</p>
+<p> 2. The aircraft weighs about 160G.</p>
+<p> 3, battery: 3.7V1800MAH high rate lithium battery;</p>
+<p> 4, motor: diameter 8 hollow cup motor 4. </p>
+<p> 5, charging time is about 1 hours. </p>
+<p> 6. Flying time is about 20 minutes.  </p>
+<p>7. Remote control within 50 meters. </p>
+<p> Configuration of USB cable, AB blade each 2 pieces, instructions, WiFi camera (300,000 pixels 2 million pixels), screwdriver 9.6 cm (no card reader, memory card)</p>
+<p> 1. The product adopts 6 axis gyroscope technology, which can fly indoors and outdoors, and has strong wind resistance.</p>
+<p> 2. The aircraft adopts 2.4G frequency, remote control distance is long, operation is sensitive, can realize multi-person simultaneous operation without interference. </p>
+<p> 3. Through remote control, this product can realize the general four-way function (up, down, left and right turn; forward, backward, left and right functions) at the same time increase the throwing function and special effects roll function, in order to meet the different levels of operators, specially added low speed, medium speed, high speed, three-gear mode.</p>
+<p> 4, when consumers tune the fine-tuning, one key can be restored to fine tune. </p>
+<p>5. The "headless mode" is added to the product, that is, where the aircraft powerless aircraft points, it is based on the direction of operation of the operator. </p>
+<p>6, the product has added the function of "one button return". </p>
+<p> 7. with WiFi real-time return function WIFI camera pitch adjustment </p>
+<p> 8. mobile phone simulation rocker control aircraft, mobile phone gravity induction control aircraft function. Video storage can be replayed anytime, anywhere.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9481666330922</id>
+      <title>200W WiFi</title>
+      <s:price currency="USD">110.11</s:price>
+      <s:sku>CJXFXJWR00022-200W WiFi</s:sku>
+      <s:grams>710</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481666330922</id>
+      <title>200W WiFi Wideangle</title>
+      <s:price currency="USD">115.21</s:price>
+      <s:sku>CJXFXJWR00022-200W WiFi Wideangle</s:sku>
+      <s:grams>710</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9481666330922</id>
+      <title>30W WiFi</title>
+      <s:price currency="USD">99.46</s:price>
+      <s:sku>CJXFXJWR00022-30W WiFi</s:sku>
+      <s:grams>710</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479780663594</id>
+    <published>2024-09-10T22:32:01-04:00</published>
+    <updated>2024-09-10T22:32:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/mini-folding-drone-wifi-remote-control"/>
+    <title>Mini Folding Drone WIFI Remote Control</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/5915182971287.jpg?v=1726021924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            48.50 - 104.19
+            <a href="https://ignotec.com/products/mini-folding-drone-wifi-remote-control">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="font-family: Arial, sans-serif; line-height: 1.6;">
+<h2>Mini Folding Drone WIFI Remote Control</h2>
+<p>Experience the ultimate in high-end drone technology with our <strong>Mini Folding Drone</strong>. With WIFI remote control capabilities, this compact and sleek drone allows for easy maneuvering and control while providing stunning aerial views. Take your photography and videography to new heights with this premium product.</p>
+<ul>
+<li>Standard version [red]</li>
+<li>Standard version [white]</li>
+<li>Standard version [black]</li>
+<li>Fixed version of 300,000 aerial photography [red]</li>
+<li>Fixed height version of 300,000 aerial photography [white]</li>
+<li>Fixed height version of 300,000 aerial photography [black]</li>
+<li>Fixed high version 2 million aerial photography [red]</li>
+<li>Fixed height version 2 million aerial photography [white]</li>
+<li>Fixed height version 2 million aerial photography [black]</li>
+<li>Fixed version 5 million aerial photography [red]</li>
+<li>Fixed height version 5 million aerial photography [white]</li>
+<li>Fixed height version 5 million aerial photography [black]</li>
+</ul>
+<p>Toy material: plastic</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Black</title>
+      <s:price currency="USD">48.50</s:price>
+      <s:sku>CJXFZNZN00350-Black</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Black 20W</title>
+      <s:price currency="USD">95.22</s:price>
+      <s:sku>CJXFZNZN00350-Black 20W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Black 30W</title>
+      <s:price currency="USD">84.88</s:price>
+      <s:sku>CJXFZNZN00350-Black 30W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Black 500W</title>
+      <s:price currency="USD">104.19</s:price>
+      <s:sku>CJXFZNZN00350-Black 500W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Red</title>
+      <s:price currency="USD">48.50</s:price>
+      <s:sku>CJXFZNZN00350-Red</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Red 20W</title>
+      <s:price currency="USD">95.22</s:price>
+      <s:sku>CJXFZNZN00350-Red 20W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Red 30W</title>
+      <s:price currency="USD">84.88</s:price>
+      <s:sku>CJXFZNZN00350-Red 30W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>Red 500W</title>
+      <s:price currency="USD">104.19</s:price>
+      <s:sku>CJXFZNZN00350-Red 500W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>White</title>
+      <s:price currency="USD">48.50</s:price>
+      <s:sku>CJXFZNZN00350-White</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>White 20W</title>
+      <s:price currency="USD">95.22</s:price>
+      <s:sku>CJXFZNZN00350-White 20W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>White 500W</title>
+      <s:price currency="USD">104.19</s:price>
+      <s:sku>CJXFZNZN00350-White 500W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ignotec.com/products/9479780663594</id>
+      <title>White30W</title>
+      <s:price currency="USD">84.88</s:price>
+      <s:sku>CJXFZNZN00350-White30W</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ignotec.com/products/9479772995882</id>
+    <published>2024-09-10T22:15:56-04:00</published>
+    <updated>2024-09-10T22:15:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://ignotec.com/products/folding-drone"/>
+    <title>Folding drone</title>
+    <s:type>Drones</s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0896/6786/2826/files/2487871432679.jpg?v=1726020959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong>Drones<br>
+        <strong>Price: </strong>
+            389.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing our luxurious and sophisticated folding drone, designed for avant-garde individuals who value both style and functionality. Effortlessly fold and carry this masterpiece wherever your imagination takes you. Experience the thrill of aerial photography and exploration, all in one sleek and exclusive package.</p>
+<p><span style="font-size: 1em;"> <strong>Product information:</strong> </span></p>
+<p>Product name: GPS positioning high-definition aerial photography drone <br>Product material: high toughness explosion-proof environmental protection ABS, electronic components <br>Positioning system: GPS satellite anti-lost positioning <br>Charging time: 1-2 hours <br>Battery capacity: 7.4v 1800mAh <br>Flight time: about 25 minutes <br>Cruising range: about 8000 meters <br>Flying speed: about 30 km/h <br>Camera: 4K Ultra HD (front), 1080P Ultra HD (bottom) <br>New features: GPS positioning anti-lost, low battery/over distance/out of control return home, one-key return home, <br>Optical flow positioning, 360° orbiting flight, intelligent follow, anti-shake and stability, <br>Long-distance flight, automatic follow-up shooting, custom route, beauty shooting, <br>mv production, mobile phone control, one-key take-off and landing <br>Remote control mode: handle remote control, mobile phone control <br><strong>Product size:</strong> 33x33x6cm <br>Folded size: 18.5x12.5x6cm</p>
+<ul>
+<li>
+<p><strong>Packing list：</strong></p>
+</li>
+<li>
+<p> </p>
+<p>1 x 4DRC F3 drone <br>1 x 2.4G remote control <br>1× 7.4V 2000mAh modular battery (lithium battery) <br>1 x handbag <br>1 x USB charging cable <br>4 x spare propellers, <br>4 x spare screws (additional) <br>1 x screwdriver</p>
+</li>
+<li>
+<p><img src="https://cf.cjdropshipping.com/20200803/6278987509614.jpg" alt=""></p>
+</li>
+<li>
+<div draggable="false"><img src="https://cf.cjdropshipping.com/20200803/2487871432679.jpg" alt=""></div>
+</li>
+<li>
+<div draggable="false"> </div>
+</li>
+<li>
+<div draggable="false"><img src="https://cf.cjdropshipping.com/20200803/744188294667.jpg" alt=""></div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://ignotec.com/products/9479772995882</id>
+      <title>Grey / 2000W</title>
+      <s:price currency="USD">389.17</s:price>
+      <s:sku>CJXFZNZN01049-Grey-2000W</s:sku>
+      <s:grams>913</s:grams>
+    </s:variant>
+  </entry>
+</feed>
